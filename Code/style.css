@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
+
+body {
+    font-family: 'Oswald', Helvetica, sans-serif;
+}
+
+.navbar-brand {
+    width: 65px;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+#myCarousel {
+    margin-bottom: 4rem;
+}
+
+.myCarousel-img {
+    width: 100%;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, .34);
+    border-radius: 5px;
+}
+
+.promo .col-lg-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-img {
+    width: 50%;
+    border-radius: 50%;
+}
+
+.featurette-divider {
+    margin: 5rem 0;
+}
+
+.cake-img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    margin-bottom: 3rem;
+}
+
+.float-right a {
+    color: #6c757d;
+}
+
+/* @media (min-width: 576px) {
+
+ }
+
+@media (min-width: 768px) {  }
+
+@media (min-width: 992px) {  }
+
+@media (min-width: 1200px) {  } */
